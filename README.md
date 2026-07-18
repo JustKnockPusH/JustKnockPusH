@@ -1,30 +1,30 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+### ⚡ `> ./initialize_readme.md`
 
+**`[ SYSTEM STATUS: ONLINE ]`**
 
-<p>Welcome to my page! </br> I'm JustKnockPusH, A beginner developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Germany with russian roots</b> </p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
-  <img alt="Java" src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
+Welcome to my workspace. I am a backend-focused Java Developer specializing in the Minecraft ecosystem. I engineer high-performance server architecture and custom client modifications, bridging the gap between raw code and gameplay mechanics.
+
+### 💻 `> cat tech_stack.json`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-------------
+### ⚙️ `> ./execute_operations.sh`
 
-<h3>Where to find me</h3>
-<p>
-<a href="https://github.com/justknockpush" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://discord.gg/pqfJdwNsWw" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
-<a href="https://www.instagram.com/justknockpush420" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> 
-<a href="https://www.twitch.tv/justknockpush" target="_blank"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" /></a>
-<a href="https://www.youtube.com/@justknockpush" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a> 
-</p>
+*   **`[TARGET: PAPER API]`** Architecting reliable, memory-optimized server plugins for high-traffic multiplayer environments.
+*   **`[TARGET: FABRIC]`** Expanding base game mechanics and developing custom content through client and server-side modding.
 
-------------
+### 📡 `> ping contact_endpoints`
 
+```text
+Connection established...
+Location:   Germany
+Discord:    justknockpush
+```
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=justknockpush.justknockpush)
