@@ -1,30 +1,36 @@
-### ⚡ `> ./initialize_readme.md`
+# `<hello_world>`
 
-**`[ SYSTEM STATUS: ONLINE ]`**
+### `> whoami`
+I am a developer who loves building, automating, and modifying. Whether it is coding custom Discord bots, scripting mechanics for game servers, or diving into backend systems, I enjoy turning complex ideas into functional code. 
 
-Welcome to my workspace. I am a backend-focused Java Developer specializing in the Minecraft ecosystem. I engineer high-performance server architecture and custom client modifications, bridging the gap between raw code and gameplay mechanics.
+### `> current_processes`
+- 🎮 Developing custom **Minecraft plugins and mods** (Paper API, Fabric).
+- 🚗 Scripting server mechanics and interactive props for **FiveM**.
+- 🤖 Building **Discord bots** with all kind of features.
 
-### 💻 `> cat tech_stack.json`
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
-  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+### `> tech_stack`
 
-### ⚙️ `> ./execute_operations.sh`
+**Core Languages:**
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-*   **`[TARGET: PAPER API]`** Architecting reliable, memory-optimized server plugins for high-traffic multiplayer environments.
-*   **`[TARGET: FABRIC]`** Expanding base game mechanics and developing custom content through client and server-side modding.
+**Other Tech & Tools I Use:**
+<br>
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📡 `> ping contact_endpoints`
+---
 
-```text
-Connection established...
-Location:   Germany
-Discord:    justknockpush
-```
+### `> ping_me`
+Feel free to reach out if you want to give me money so i can pay my server and my domain or just talk. :3 
+
+[<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">](https://discord.com/users/659149743380889621)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=justknockpush.justknockpush)
